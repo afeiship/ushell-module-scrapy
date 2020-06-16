@@ -1,0 +1,24 @@
+{
+  "name": "@feizheng/ushell-module-scrapy",
+  "version": "1.0.0",
+  "description": "Quick command for scrapy.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-scrapy.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-scrapy"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-scrapy/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-scrapy",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
