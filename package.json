@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-scrapy",
+  "name": "@jswork/ushell-module-scrapy",
   "version": "1.0.0",
   "description": "Quick command for scrapy.",
   "main": "index.sh",
@@ -9,9 +9,10 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-scrapy"
+    "module",
+    "scrapy",
+    "spider",
+    "crawl"
   ],
   "license": "MIT",
   "bugs": {

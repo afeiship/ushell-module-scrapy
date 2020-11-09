@@ -3,5 +3,5 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-scrapy
+npm i -S @jswork/ushell-module-scrapy
 ```
